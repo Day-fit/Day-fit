@@ -5,8 +5,9 @@ I love building **secure**, **scalable** applications and experimenting with **d
 
 **Languages**:  
 - Java (primary)  
-- C#  
-- JavaScript  
+- Python
+- JavaScript
+- And some others...
 
 **Currently**:  
 - Exploring advanced Spring features and microservices  
