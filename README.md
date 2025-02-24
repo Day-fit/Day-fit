@@ -15,6 +15,6 @@ I love building **secure**, **scalable** applications and experimenting with **d
 - Working on personal projects to expand my GitHub portfolio  
 
 **Find me on [LinkedIn](https://www.linkedin.com/in/dawid-socha-66193a34b/)**  
-**Read more [About Me](https://day-fit.github.io/dayfit.github.io/)**
+**Read more [About Me](https://day-fit.github.io/)**
 
 Thanks for stopping by—feel free to reach out or explore my repos!
