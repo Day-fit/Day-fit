@@ -13,6 +13,7 @@ I love building **secure**, **scalable** applications and experimenting with **d
 - Exploring advanced Spring features and microservices  
 - Sharpening my skills in DevOps and CI/CD pipelines  
 - Working on personal projects to expand my GitHub portfolio  
+- Learning new frameworks such as React and JavaFX
 
 **Find me on [LinkedIn](https://www.linkedin.com/in/dawid-socha-66193a34b/)**  
 **Read more [About Me](https://day-fit.github.io/)**
