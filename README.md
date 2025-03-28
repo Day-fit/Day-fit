@@ -1,24 +1,32 @@
 # Hey there! 👋
 
-I'm **Dawid**—a passionate **backend developer** focusing on ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white), and ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot).
+I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system design and efficient solutions.  
 
-I love building **secure**, **scalable** applications and experimenting with **databases** and **API** integrations.
+## 🛠️ Tech Stack  
+**Primary Languages & Frameworks**:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  
+**Additional Skills**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-**Languages**:
+## 🔍 Core Expertise  
+- Building **secure**, **scalable** backend systems  
+- Optimizing database architectures (SQL & NoSQL)  
+- RESTful API development & third-party integrations  
+- Microservices design with Spring Cloud  
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) (primary)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- And some others...
+## 🌱 Current Focus  
+- Advancing knowledge in **distributed systems** and **event-driven architectures**  
+- Implementing DevOps practices: **CI/CD pipelines**, Kubernetes, and cloud deployment (AWS/GCP)  
+- Expanding frontend familiarity with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- Contributing to open-source projects and personal tooling initiatives  
 
-**Currently**:
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-socha-66193a34b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://day-fit.github.io/)  
 
-- Exploring advanced Spring features and microservices
-- Sharpening my skills in DevOps and CI/CD pipelines
-- Working on personal projects to expand my GitHub portfolio
-- Learning new libraries such as ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) and ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Find me on [LinkedIn](https://www.linkedin.com/in/dawid-socha-66193a34b/)**  
-**Read more [About Me](https://day-fit.github.io/)**
-
-Thanks for stopping by—feel free to reach out or explore my repos!
+⭐ Explore my repositories below! Always open to collaborations and new challenges.  
