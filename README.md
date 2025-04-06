@@ -20,8 +20,9 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 - Microservices design with Spring Cloud  
 
 ## 🌱 Current Focus  
-- Advancing knowledge in **distributed systems** and **event-driven architectures**  
-- Implementing DevOps practices: **CI/CD pipelines**, Kubernetes, and cloud deployment (AWS/GCP)  
+- Advancing knowledge in **distributed systems** and **event-driven architectures**
+- Learning about **WebSockets** in Spring-Boot
+- Implementing DevOps practices: **CI/CD pipelines**, Kubernetes, and cloud deployment (AWS/GCP/OCI)  
 - Expanding frontend familiarity with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 - Contributing to open-source projects and personal tooling initiatives  
 
