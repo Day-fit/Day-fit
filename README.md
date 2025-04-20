@@ -15,7 +15,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 **Other Less Important Skills**:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-**And Many Others In My [Portfolio](##-lets-connect)**
+**And Many Others In My [Portfolio](#-lets-connect)**
 
 ## 🔍 Core Expertise  
 - Building **secure**, **scalable** backend systems  
