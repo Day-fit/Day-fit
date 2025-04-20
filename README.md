@@ -4,14 +4,18 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 
 ## 🛠️ Tech Stack  
 **Primary Languages & Frameworks**:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  
 **Additional Skills**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Other Databases](https://img.shields.io/badge/Other-Databases-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+**Other Less Important Skills**:  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**And Many Others In My [Portfolio](##-lets-connect)**
 
 ## 🔍 Core Expertise  
 - Building **secure**, **scalable** backend systems  
@@ -21,7 +25,6 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 
 ## 🌱 Current Focus  
 - Advancing knowledge in **distributed systems** and **event-driven architectures**
-- Learning about **WebSockets** in Spring-Boot
 - Implementing DevOps practices: **CI/CD pipelines**, Kubernetes, and cloud deployment (AWS/GCP/OCI)  
 - Expanding frontend familiarity with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 - Contributing to open-source projects and personal tooling initiatives  
