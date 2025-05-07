@@ -2,6 +2,7 @@
 
 I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system design and efficient solutions.  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=day-fit&show_icons=true&theme=dayfy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=day-fit&hide=css)
 
 ## 🛠️ Tech Stack  
 **Primary Languages & Frameworks**:  
