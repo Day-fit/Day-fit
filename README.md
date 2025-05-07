@@ -16,7 +16,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 **Other Less Important Skills**:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br/>
 **And Many Others In My [Portfolio](#-lets-connect)**
 
 ## 🔍 Core Expertise  
