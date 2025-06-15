@@ -13,8 +13,11 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Other Databases](https://img.shields.io/badge/Other-Databases-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-f44336?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-5b5b5b?style=for-the-badge&logo=gh-actions&logoColor=white)  
 **Other Less Important Skills**:  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br/>
 **And Many Others In My [Portfolio](https://day-fit.github.io/)**
