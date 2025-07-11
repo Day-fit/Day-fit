@@ -15,6 +15,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-f44336?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-5b5b5b?style=for-the-badge&logo=gh-actions&logoColor=white)  
 **Other Less Important Skills**:  
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,7 +27,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 - Building **secure**, **scalable** backend systems  
 - Optimizing database architectures (SQL & NoSQL)  
 - RESTful API development & third-party integrations  
-- Microservices design with Spring Cloud  
+- Microservices design with Spring Cloud and K8s
 
 ## 🌱 Current Focus  
 - Advancing knowledge in **distributed systems** and **event-driven architectures**
