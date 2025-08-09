@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system design and efficient solutions.  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=day-fit&show_icons=true&theme=dayfy) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=day-fit&hide=css) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=day-fit&show_icons=true&theme=dayfy) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=day-fit&hide=css,html) |
 |---|---|
 
 ## 🛠️ Tech Stack  
@@ -10,6 +10,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  
 **Additional Skills**:  
+![Spring Security](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Other Databases](https://img.shields.io/badge/Other-Databases-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
