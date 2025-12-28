@@ -1,10 +1,10 @@
-# Hey there! 👋
+# Hey there!
 
 I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system design and efficient solutions.  
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=day-fit&show_icons=true&theme=default) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=day-fit&hide=css,html) |
 |---|---|
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Primary Languages & Frameworks**:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7700FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -36,13 +36,13 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in robust system d
 - RESTful API development & third-party integrations  
 - Microservices design with Spring Cloud and K8s
 
-## 🌱 Current Focus  
+## Current Focus  
 - Advancing knowledge in **distributed systems** and **event-driven architectures**
 - Implementing DevOps practices: **CI/CD pipelines**, Kubernetes, and cloud deployment (AWS/GCP/OCI)  
 - Expanding frontend familiarity with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 - Contributing to open-source projects and personal tooling initiatives  
 
-## 📫 Let's Connect  
+## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-socha-66193a34b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://day-fit.github.io/)  
 
