@@ -17,6 +17,7 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in system design a
 **Technologies I am familliar with**:<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Other Databases](https://img.shields.io/badge/Other-Databases-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![RabbitMQ Streams](https://img.shields.io/badge/RabbitMQ-Streams-ED8B00?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-ff0000?style=for-the-badge&logo=minio&logoColor=white)
@@ -29,25 +30,19 @@ I'm **Dawid**, a dedicated **Backend Developer** specializing in system design a
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-5b5b5b?style=for-the-badge&logo=gh-actions&logoColor=white)  
 **Other Less Important Skills**:  
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br/>
-**And Many Others In My [Portfolio](https://day-fit.github.io/)**
 
 ## Core Expertise  
 - Building **secure**, **scalable** backend systems  
-- Optimizing database architectures (SQL & NoSQL)  
-- RESTful API development & third-party integrations  
+- RESTful API development 
 - Microservices design with Spring Cloud and K8s
-- Integrating microservice architecture, with modern devops tech
 
 ## Current Focus  
 - Expanding cybersecurity skills
-- Advancing knowledge in **distributed systems** and **event-driven architectures**
+- Advancing knowledge in **distributed systems patterns** and **event-driven architectures**
 - Implementing DevOps practices: **CI/CD pipelines**, Kubernetes/Docker, and cloud deployment (AWS/GCP/OCI)
-- Expanding frontend familiarity with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 - Contributing to open-source projects and personal tooling initiatives  
 
 ## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-socha-66193a34b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://day-fit.github.io/)  
-
-Explore my repositories below! Always open to collaborations and new challenges.  
