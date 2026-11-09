@@ -1,7 +1,7 @@
 # Hey there!
 
 I'm **Dawid**, a dedicated **Backend Developer** specializing in system design and efficient solutions.  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=day-fit&show_icons=true&theme=default) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=day-fit&hide=css,html) |
+| ![GitHub Stats](https://github-readme-stats-extended.vercel.app/api?username=day-fit&show_icons=true&theme=default) | ![GitHub Stats](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=day-fit&hide=css,html) |
 |---|---|
 
 ## Tech Stack  
