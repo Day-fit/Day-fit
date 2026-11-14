@@ -45,3 +45,4 @@ I'm **Dawid**, Backend Developer specializing in Spring boot and JVM languages (
 
 ## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-socha-66193a34b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=chromium&logoColor=white)](https://dayfit.pl)
